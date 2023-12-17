@@ -1,10 +1,3 @@
-/** 
-Author: Build Rise Shine with Nyros (BRS) 
-Created: 2023 
-Library / Component: Script file
-Description: Click and Drag
-(c) Copyright by BRS with Nyros. 
-**/
 
 // Get DOM elements
 const holes = document.querySelectorAll(".hole");
